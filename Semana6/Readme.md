@@ -3,3 +3,5 @@
 
 ### Regressão Linear Simples
 ### Regressão Linear Múltipla
+
+#### Link Regressão - https://online.stat.psu.edu/stat501/lesson/welcome-stat-501
