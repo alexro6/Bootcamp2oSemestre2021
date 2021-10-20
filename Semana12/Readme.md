@@ -1,3 +1,0 @@
-# Neural Networks 
-
-## Basic Concepts 
